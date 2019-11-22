@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=PPAP
 comment1.params=prevLine
-comment1.target=void\ nextLine(java.lang.String)
+comment1.target=java.lang.String\ nextLine(java.lang.String)
 comment2.params=args
 comment2.target=void\ main(java.lang.String[])
 numComments=3
