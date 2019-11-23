@@ -2,6 +2,6 @@
 comment0.target=Binary
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-comment2.params=str
-comment2.target=java.lang.String\ convert(java.lang.String)
+comment2.params=n
+comment2.target=java.lang.String\ convert(int)
 numComments=3
